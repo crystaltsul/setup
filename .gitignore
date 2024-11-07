@@ -1,0 +1,3 @@
+app/config/config.dev.yml
+.DS_Store
+*.pyc
